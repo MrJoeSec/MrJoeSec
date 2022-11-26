@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrJoeSec
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning how to program
+- 📫 Heres my personal email: yoyoblassy@gmail.com
