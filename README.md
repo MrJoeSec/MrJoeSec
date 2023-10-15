@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrJoeSec
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning how to program
+- 👀 I study cybersecurity daily
+- 🌱 Heres my github page I don't use often
 - 🤓 I learned the basics of Java, C, and Python so far
